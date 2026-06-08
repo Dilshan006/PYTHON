@@ -1,5 +1,5 @@
 legs=int(input("Enter the total no of legs:"))
-heads=int(input("Enter the total no of heas:"))
+heads=int(input("Enter the total no of hens:"))
 f=0
 for i in range(heads+1):
     cows=i
